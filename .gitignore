@@ -1,0 +1,5 @@
+/node_modules
+.infura
+.secret
+package-lock.json
+/build
