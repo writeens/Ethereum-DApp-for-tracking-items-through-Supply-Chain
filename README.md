@@ -58,7 +58,7 @@ A general write up exists to items like steps and contracts address.
 
 ## 2.1 Screenshots
 
-![alt text](./contracts/docs/frontend_1.png 'Token')
+![alt text](./screen.png 'Screenshot')
 
 ## Notes
 
