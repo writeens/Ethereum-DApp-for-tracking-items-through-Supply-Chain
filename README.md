@@ -29,13 +29,14 @@ Project write-up include the following UML diagrams:
 
 Libraries which were adopted for the project.
 
-|         Libraries         | Versions |                                                                   Details                                                                    | Status |
-| :-----------------------: | :------- | :------------------------------------------------------------------------------------------------------------------------------------------: | :----: |
-|          truffle          | v5.4.2   | Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier |   ✅   |
-|    truffle-assertions     | ^0.9.2   |               This package adds additional assertions that can be used to test Ethereum smart contracts inside Truffle tests.                |   ✅   |
-| truffle-hdwallet-provider | ^1.0.17  |              HD Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic.               |   ✅   |
-|           node            | 14.17.0  |                                   Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.                                   |   ✅   |
-|           web3            | 1.2.1    |                               This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec.                               |   ✅   |
+|         Libraries         | Versions |                                                                                                         Details                                                                                                         | Status |
+| :-----------------------: | :------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: |
+|          truffle          | v5.4.2   |                                      Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier                                       |   ✅   |
+|    truffle-assertions     | ^0.9.2   |                                                     This package adds additional assertions that can be used to test Ethereum smart contracts inside Truffle tests.                                                     |   ✅   |
+| truffle-hdwallet-provider | ^1.0.17  |                                                    HD Wallet-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 word mnemonic.                                                    |   ✅   |
+|           node            | 14.17.0  |                                                                        Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.                                                                         |   ✅   |
+|           web3            | 1.2.1    |                                                                    This is the Ethereum JavaScript API which connects to the Generic JSON-RPC spec.                                                                     |   ✅   |
+|        lite-server        | ^0.9.2   | Lightweight development only node server that serves a web app, opens it in the browser, refreshes when html or javascript change, injects CSS changes using sockets, and has a fallback page when a route is not found |   ✅   |
 
 ### 1.3 Project write-up - IPFS
 
